@@ -1,3 +1,4 @@
+![DinoBro Token Logo](assets/Dino_Bro_Token.png)
 # DinoBro Token (DINOB)
 
 An ERC-20 compliant token, DinoBro Coin (DINOB), developed using Hardhat, featuring custom transaction amount and wallet holding limits to manage token distribution.
